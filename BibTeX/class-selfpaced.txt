@@ -1,0 +1,8 @@
+@inproceedings{RenZhaoShengYaoXu2017RobustClasswithSelfpaced,
+  title     = {Robust softmax regression for multi-class classification with self-paced learning},
+  author    = {Yazhou Ren and Peng Zhao and Yongpan Sheng and Dezhong Xu and Zenglin Xu},
+  booktitle = {Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI)},
+  pages={2641--2647},
+  year={2017},
+  organization={AAAI Press}
+}

@@ -1,0 +1,9 @@
+@article{XuQiuShengLuoXiang2018qossec,
+  title={A Qos-driven Approach to the Cloud Service Addressing Attributes of Security},
+  author={Han Xu and Xiwei Qiu and Yongpan Sheng and Yanping Xiang},
+  journal={IEEE Access},
+  volume={6},
+  pages={34477--34487},
+  year={2018},
+  publisher={IEEE}
+}

@@ -1,0 +1,7 @@
+@article{ShengXuWangGerard2020hdses,
+  title={HDSES: A Multi-Document Semantic Extraction System using News Data},
+  author={Yongpan Sheng and Zenglin Xu and Yafang Wang and Gerard de Melo},
+  journal={World Wide Web Journal},
+  year={2020},
+  publisher={Springer}
+}

@@ -1,0 +1,8 @@
+@inproceedings{ShengEtAl2018,
+  title     = {Visualizing Multi-Document Semantics via Open Domain Information Extraction},
+  author    = {Yongpan Sheng and Zenglin Xu and Yafang Wang and Xiangyu Zhang and Jia Jia and Zhonghui You and Gerard de Melo},
+  booktitle = {Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)},
+  pages={695--699},
+  year={2018},
+  organization = {Springer}
+}

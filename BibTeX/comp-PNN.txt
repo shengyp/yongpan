@@ -1,0 +1,8 @@
+@inproceedings{ShengWangWangZhao2019compPNN,
+  title     = {A comparison of learning rules in pulse-based neural networks},
+  author    = {Yongpan Sheng and Yangyang Wang and Lu Wang and Gaofeng Zhao},
+  booktitle = {Proceedings of the 13th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP)},
+  pages     = {95--98},
+  year      = {2016},
+  organization = {IEEE}
+}

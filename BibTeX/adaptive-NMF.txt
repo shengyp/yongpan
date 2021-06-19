@@ -1,0 +1,10 @@
+@article{ShengWangWuXu2019adaptiveNMF,
+  title={Adaptive local learning regularized nonnegative matrix factorization for data clustering},
+  author={Yongpan Sheng and Meng Wang and Tianxing Wu and Han Xu},
+  journal={Applied Intelligence},
+  volume={49},
+  number={6},
+  pages={2151--2168},
+  year={2019},
+  publisher={Springer}
+}

@@ -1,0 +1,7 @@
+@inproceedings{ShengWuDeMelo2019TRI,
+  title     = {Incorporating Term Definitions for Taxonomic Relation Identification},
+  author    = {Yongpan Sheng and Tianxing Wu and Xin Wang},
+  booktitle = {Proceedings of the 9th Joint International Semantic Technology Conference (JIST)},
+  year      = {2019},
+  organization = {Springer},
+}

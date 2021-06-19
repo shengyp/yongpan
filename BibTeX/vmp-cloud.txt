@@ -1,0 +1,8 @@
+@inproceedings{PanWuWuSheng2015vmpincloud,
+  title     = {Ant colony optimization of virtual machine placement for data latency minimization in cloud systems},
+  author    = {Xiaojia Pan and Lei Wu and Dean Wu and Yongpan Sheng},
+  booktitle = {Proceedings of the 12th International Computer Conference on Wavelet Active Media Technology and Information Processing (ICCWAMTIP)},
+  pages     = {49--54}
+  year      = {2015},
+  organization = {IEEE}
+}

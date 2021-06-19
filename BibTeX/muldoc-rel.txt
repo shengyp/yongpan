@@ -1,0 +1,8 @@
+@inproceedings{ShengXu2019MuldocSemantics,
+  title     = {Coherence and Salience-Based Multi-Document Relationship Mining},
+  author    = {Yongpan Sheng and Zenglin Xu},
+  booktitle = {Proceedings of the 3rd APWeb-WAIM Joint Conference on Web and Big Data (APWeb-WAIM)},
+  pages={414--430},
+  year={2019},
+  organization={Springer}
+}
