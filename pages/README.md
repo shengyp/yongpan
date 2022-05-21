@@ -4,7 +4,7 @@
 作者认为，博士旅程是一段围绕个人认知、能力与身心而开展的难得的修行。在这当中，内涵丰富、切实有效的指导性资源有益于将博士生们的独孤求索旅程带入新的境地，使其能够更有准备，更加勇敢，更持有信心地去面对随读博选择而伴生的不同研究任务与多方面的挑战，最终得以迭代升级，顺利修行。
 
 
-作者将上述提到的指导性资源划分为： [高考模式]、 [中美教育]、 [自救指南]、 [科学问题]、 [一个执着的决定]、 [如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何做实验]、 [如何写论文]、 [ArXiv]、 [如何投论文]、 [如何做Rebuttal]、 [如何审论文]、 [同行评审]、 [审稿状态]、 [如何做报告]、 [顶会存在的意义]、 [博士生的导师]、 [读博期间]、 [延期毕业问题]、 [博士学位的重要性]、 [博士学位论文]、 [学位论文答辩]、 [学位论文致谢]、 [校长演讲]、 [毕业典礼]、 [智能技术实验室]、 [高校排行榜]、 [名校光环]、 [学术界和工业界]、 [博士婚姻研究]、 [AI论文调研]、 [中文期刊]、 [期刊评价]、 [科研的价值与难度]、 [科研政策]、 [科研经费管理]、 [准硕博学生如何准备面试]、 [导师招生神奇要求]、 [我国博士研究生累积招生情况]、 [我国博士研究生培养结构]、 [有多“内卷”]、 [科研故事]、 [大厂经历]、 [灵魂拷问]、 [被博士后割韭菜了没]、 [洋博士们]、 [谁说科学没有国界]、 [毕业生的去向]、 [如何指导学生]、 [青椒的苦恼]、 [贤内助]、 [人才项目]、 [教学改革]、 [科技成果评价]、 [科技制度对比]、 [高校岗位设置与评价体制]、 [国家自然科学基金]、 [国家重点研发计划]、 [重大研究计划]、 [课题申报]、 [国家科技部政策]、 [重庆市科技政策]、 [科学城建设]、 [教师法]、 [教师待遇]、 [谨慎破除“唯论文”现象]、 [把论文写在祖国大地上]、 [高校中的大老虎]、 [这些事不干]、 [毛主席话语]、 [严正声明]、 [新华社来了]、 [身体症状]、 [英才陨落]、 [海里游荡]数个主题，期待更多的研究人员关注并给予建议。
+作者将上述提到的指导性资源划分为： [高考模式]、 [中美教育]、 [自救指南]、 [科学问题]、 [一个执着的决定]、 [如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何做实验]、 [如何写论文]、 [ArXiv]、 [如何投论文]、 [如何做Rebuttal]、 [如何审论文]、 [同行评审]、 [审稿状态]、 [如何做报告]、 [顶会存在的意义]、 [博士生的导师]、 [读博期间]、 [延期毕业问题]、 [博士学位的重要性]、 [博士学位论文]、 [学位论文答辩]、 [学位论文致谢]、 [校长演讲]、 [毕业典礼]、 [智能技术实验室]、 [高校排行榜]、 [名校光环]、 [学术界和工业界]、 [博士婚姻研究]、 [AI论文调研]、 [中文期刊]、 [期刊评价]、 [科研的价值与难度]、 [科研政策]、 [科研经费管理]、 [准硕博学生如何准备面试]、 [导师招生神奇要求]、 [我国博士研究生累积招生情况]、 [我国博士研究生培养结构]、 [有多“内卷”]、 [科研故事]、 [女性科学家]、 [青年教授]、 [科研故事]、 [大厂经历]、 [灵魂拷问]、 [被博士后割韭菜了没]、 [洋博士们]、 [谁说科学没有国界]、 [毕业生的去向]、 [如何培养学生]、 [青椒的苦恼]、 [贤内助]、 [人才项目]、 [教学改革]、 [科技成果评价]、 [科技制度对比]、 [高校岗位设置与评价体制]、 [国家自然科学基金]、 [国家重点研发计划]、 [重大研究计划]、 [课题申报]、 [国家科技部政策]、 [重庆市科技政策]、 [科学城建设]、 [教师法]、 [教师待遇]、 [谨慎破除“唯论文”现象]、 [把论文写在祖国大地上]、 [高校中的大老虎]、 [这些事不干]、 [毛主席话语]、 [严正声明]、 [新华社来了]、 [身体症状]、 [英才陨落]、 [海里游荡]数个主题，期待更多的研究人员关注并给予建议。
 
 
 
@@ -58,13 +58,14 @@ Table of Contents
 * [有多“内卷”](#有多“内卷”)
 * [科研故事](#科研故事)
 * [女性科学家](#女性科学家)
+* [青年教授](#青年教授)
 * [大厂经历](#大厂经历)
 * [灵魂拷问](#灵魂拷问)
 * [被博士后割韭菜了没](#被博士后割韭菜了没)
 * [洋博士们](#洋博士们)
 * [谁说科学没有国界](#谁说科学没有国界)  
 * [毕业生的去向](#毕业生的去向)
-* [如何指导学生](#如何指导学生)
+* [如何培养学生](#如何培养学生)
 * [青椒的苦恼](#青椒的苦恼)
 * [贤内助](#贤内助)
 * [华为天才少年](#华为天才少年)
@@ -218,6 +219,16 @@ Table of Contents
 30. [美“每周的运动必不可少” 有哪些东西是你读博士以后才懂的？](https://mp.weixin.qq.com/s/erlCqwtTRUwUstGMprMT5g) 2022.03.19. 
 
 
+31. [博士入坑必读教材-《A-Z博士（PhD）顺利毕业必读指南》新书免费分享](./book/The_A-Z_of_the_Phd_Trajectory.pdf). 2022.04.11. | [[Report]](https://mp.weixin.qq.com/s/siwSoapCfI20Sa7i-faiwQ)
+
+
+32. [犹豫是否读个博士？这里综合前途、家庭、爱好帮你分析下~](https://mp.weixin.qq.com/s/_wlKYSkESHkLWeueU13Ayw) 2022.05.03. 
+
+
+33. [读博士可能后悔四年，不读博士可能后悔一辈子](https://mp.weixin.qq.com/s/9hNl7FPEKBhPM4x0XdkzBQ). 2022.05.18. 
+
+
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
@@ -329,6 +340,13 @@ Table of Contents
 35. [钱颖一：从清华学生身上，我发现了这7个普遍现象……](https://mp.weixin.qq.com/s/CV0VPJwb4QW7sGFJglKisA). 2022.02.22
 
 
+36. [吴恩达知乎问答：如何系统学习机器学习？](https://mp.weixin.qq.com/s/Gx05WDzIaGkBNlptD7KIyg) 2022.04.10
+
+
+37. [读博期间应该明确的50件事！](https://mp.weixin.qq.com/s/U8O-MgZ3K9pqLpcXWDwsXw) 2022.05.02
+
+
+
 
 ## 好的研究想法如何产生
 1. [我有一个顶会idea还没做实验，NeurIPS：先占坑再实验！](https://mp.weixin.qq.com/s/T4aRAHJILLZZ2CSd_m6wWw)
@@ -436,6 +454,12 @@ Table of Contents
 
 
 12. [CVPR放榜季，算法工程师怎样读论文？](https://mp.weixin.qq.com/s/YsR6gEjk9tgAniM4VBMI_A). 2022.03.12 
+
+
+13. [三位科研牛人介绍的文献阅读经验、点点滴滴](https://mp.weixin.qq.com/s/F_mhExyHoBBkCXjLT6--nA). 2022.04.02 
+
+
+14. [如何做好科研？德国图宾根大学Andreas这份《科研阅读、写作与报告》82页PPT，手把手教你实操科研: 读写评讲论文](https://pan.baidu.com/s/1KqblVQc0hyPFFg3JoAPTVw?pwd=ge41). 2022.04.13 | [[Report]](https://mp.weixin.qq.com/s/hX-x0BXSHGVxvb0-7uhdng)
 
 
 
@@ -616,6 +640,10 @@ Table of Contents
 54. [【经典】清华大学刘洋老师：244页机器翻译学术论文写作方法和技巧，讲透学术论文写作](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf). 2022.01.16. | [清华大学刘洋老师：244页机器翻译学术论文写作方法和技巧，讲透学术论文写作](https://pan.baidu.com/s/1Ynq94J7v2kXs_ZTvSSu9gA?pwd=qrd9). 2022.03.13. 
 
 
+55. [写好一篇机器学习顶会论文](https://pan.baidu.com/s/1jHblTOZOuotktjVc9PzCEg?pwd=63dt). 2022.05.18.  [[Report]](
+https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g). 
+
+
 
 ## ArXiv
 1. [上传arXiv如何选择期刊允许的license](https://mp.weixin.qq.com/s/cK_AZklHlivvgUjM76JLaw). 2021.09.23.
@@ -679,6 +707,9 @@ Table of Contents
 
 
 3. [投稿人就是AI顶会最好的「审稿人」！中国学者提出同行评审新机制](https://mp.weixin.qq.com/s/CmgHPLhVGnd1ifXdY5q3iw). 2022.01.01.
+
+
+4. [ICML 2022审稿结果惹争议！LeCun：我3篇全拒了！马毅：我再也不投了...](https://mp.weixin.qq.com/s/05m-5qvg5N7DBG7niBydxQ). 2022.05.18.
 
 
 
@@ -853,6 +884,9 @@ Table of Contents
 
 ## 校长演讲
 1. [川大校长李言荣：提出真问题比热衷“填补空白”更重要](https://www.toutiao.com/i7075306374225330702/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1647430307&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20220316193147010158155167100D0B36&share_token=5102bfa8-74d1-4850-b28a-b57f6ab07233&group_id=7075306374225330702). 2022.03.15. 
+
+
+2. [川大校长李言荣：培养拔尖人才，教师科研经费应保持在合理区间内](https://www.toutiao.com/article/7099700795288961570/?app=news_article&timestamp=1653091461&use_new_style=1&req_id=202205210804200101502221571017D811&group_id=7099700795288961570&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=16b1489d-bc9f-430c-825f-b1fc19b041a2&wid=1653101876719). 2022.05.20. 
 
 
 
@@ -1225,6 +1259,21 @@ Table of Contents
 56. [这位斯坦福PhD新生的论文被引数：接近4万](https://mp.weixin.qq.com/s/ruOaKL59sJtu-JUR4iLaBg). 2022.03.30.
 
 
+57. [现在的本科生太厉害了](https://www.toutiao.com/w/1729876673605644/?app=news_article&timestamp=1649819269&use_new_style=1&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=c595641a-b13a-4bb9-936e-ac27ee1b2b62). 2022.04.12.
+
+
+58. [智能青年｜苟向阳：以长期事业的态度对待科研](https://mp.weixin.qq.com/s/ukT_kiYCxsB_DTSTSLVb4g). 2022.04.15.
+
+
+59. [疫情封闭在校的一个复旦教授的坚守：不停教，不停研，助抗疫](https://mp.weixin.qq.com/s/VxSdXoYPIL6xjGwQ_ZGXTA). 2022.04.23.
+
+
+60. [美国莱斯大学副教授胡侠｜“没有人会为无聊的事情奋斗一辈子”](https://mp.weixin.qq.com/s/OW4_zwKJ55c3SzLE_8OjvQ). 2022.04.29.
+
+
+61. [我在MIT人工智能研究实验室工作一年学到的5件事](https://mp.weixin.qq.com/s/FZcaf3slXklmoWDHBrkHOQ). 2022.05.09.
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
@@ -1240,6 +1289,11 @@ Table of Contents
 
 
 5. [专访Women in AI学者黄惠：绘图形之梦，寻突破之门](https://mp.weixin.qq.com/s/GU8TouLQMomJwrlIfe4YBw). 2022.03.23.
+
+
+
+## 青年教授
+1. [24岁成为双一流高校副教授！“95后”大学教授越来越多了](https://www.toutiao.com/article/7098957865318138380/?app=news_article&timestamp=1652863032&use_new_style=1&req_id=20220518163712010150155078150DFEE2&group_id=7098957865318138380&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=f9a29e4f-7c46-4a79-a6f3-f1a4849b5b98). 2022.05.18.
 
 
 
@@ -1333,6 +1387,7 @@ Table of Contents
 24. [清华姚班教授劝退文： 我见过太多PhD，精神崩溃、心态失衡、身体垮掉、一事无成](https://mp.weixin.qq.com/s/ebMZS06L5HGFe1ODsaVKQA). 2021.12.04
 
 
+
 ## 被博士后割韭菜了没
 1. [【政策解读】2021年度中国博士后科学基金资助推出六项改革举措](https://mp.weixin.qq.com/s?__biz=MzAwMDc5MzcyNA==&mid=2652006075&idx=1&sn=0af60a3a92f8435bcc0f2cf9d7538fe8&chksm=81054ba8b672c2be481d19716cdb0ed153da21b7e0b8d6269d38b9ba288e517accaee89f48f3&mpshare=1&scene=23&srcid=1228lktssAF1e5dmNcxzoAka&sharer_sharetime=1609124842573&sharer_shareid=8a8a78324a566e911eee5ad4267992c7#rd). 2020.12.28.
 
@@ -1423,7 +1478,7 @@ Table of Contents
 
 
 
-## 如何指导学生
+## 如何培养学生
 1. [《自然》2020年度最受欢迎的导师是怎么带学生的？](https://mp.weixin.qq.com/s/3tHZQY9NOR1PkD8kaFC9kg). 2021.01.03.
 
 
@@ -1449,6 +1504,16 @@ Table of Contents
 
 
 9. [学生拼命“双减”，老师为何“双增”？](https://mp.weixin.qq.com/s/b04ZWXWLp268zffZWAuvhw) 2021.08.24.
+
+
+10. [许多研究生的一个通病：对导师过度依赖！](https://mp.weixin.qq.com/s/xkWXQknLzhQnilTM8w5BoQ) 2022.04.10.
+
+
+11. [数据科学研究型人才培养的思考与实践](https://mp.weixin.qq.com/s/cw8gAinn4iWgKGh86xxxGA). 2022.04.11.
+
+
+12. [教授建议：科研人员压力太大，要培养一些吃喝玩乐之类庸俗的爱好](https://mp.weixin.qq.com/s/rk2Zv6jCdQOAFoTt_n6ImA). 2022.04.30.
+
 
 
 
@@ -1671,6 +1736,10 @@ Table of Contents
 28. [量化评估对高校教师的规训隐忧——从《慢教授》看学术职业的异化](https://mp.weixin.qq.com/s/0CHeqt-TKSFbE76WdHqkQQ). 2022.03.04
 
 
+29. [打破「铁饭碗」：佐治亚理工取消终身教授制度，启动全员「末位淘汰」](https://mp.weixin.qq.com/s/SX7zE4HoD82PvkyaITEE2Q). 2022.04.23 | [得州、佛州也对「终身教授」制度下手了，每年评绩效，有大学准备捡漏](https://mp.weixin.qq.com/s/4z6y1Kn4njgCAUy-ZzbJcg). 2022.04.23 
+
+
+
 
 ## 国家自然科学基金
 1. [2021年国家自科基金项目指南](http://m.nsfc.gov.cn/publish/portal0/tab882/) 2021.01.15. 
@@ -1751,7 +1820,9 @@ http://www.360doc.com/content/20/0315/17/8729276_899375743.shtml). 2020.03.15.
 
 
 21. [国家自然科学基金上会评审(会评)基本情况介绍](
-https://www.medsci.cn/article/show_article.do?id=e4c213996308). 2018.06.04.
+https://www.medsci.cn/article/show_article.do?id=e4c213996308). 2018.06.04. | [【学术相关】国家自然科学基金申请——函评等级与上会](
+https://mp.weixin.qq.com/s/fc5Lrozw2MKgGxhn4f1png). 2022.05.18. 
+
 
 
 22. [国家自然科学基金委员会2020年度报告出炉！](
@@ -1807,6 +1878,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 36. [基金委：2022年总预算经费再次增加!](https://mp.weixin.qq.com/s/EywAbunhnR-fIp2t02tgDg). 2022.03.24.
+
+
+37. [2022年国自然：面上、青年等函评已开始](https://mp.weixin.qq.com/s/eOjxwEEbBpygPZp40zAw7A). 2022.04.30.
 
 
 
@@ -1878,6 +1952,10 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 5. [太真实了！成为助教、讲师、副教授、教授后的变化](https://mp.weixin.qq.com/s/ROULYSs1bPm9n7fI4kU-PQ). 2021.03.26
 
 
+6. [重磅！100位校高校教师晒工资，详细晒，全国各地！要进高校的博士们参考](https://mp.weixin.qq.com/s/LXo6Cc8wUAU-i1NFF3MZSw). 2022.04.27
+
+
+
 
 ## 谨慎破除“唯论文”现象
 1. [诺奖得主本庶佑: 不要相信论文里写的东西，Nature、Science这些杂志上的观点有九成是不正确的.](https://mp.weixin.qq.com/s/jDIfhMKLISv0YtRPOmQHZw)  2020.10.01. 
@@ -1918,6 +1996,8 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 ## 这些事不干
 
 [学术出版规范 期刊学术不端行为界定](http://www.jsjkx.com/fileup/ITEM/20190719133537.pdf). 
+
+[知网又火了！网传中科院停用知网，近千万续订费太贵了](https://mp.weixin.qq.com/s/ywu7RVGeXLfdVcgwEjPZ5g). 2022.04.17 
 
 
 1. [论文中了顶会，却被曝抄袭前导师小组论文，多处原文及公式完全一致丨Reddit高热](https://mp.weixin.qq.com/s/eBTja_QRiODpSU7S-3p9RA). 2020.12.07
@@ -2116,6 +2196,21 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 65. [看麻了！35岁奥地利总理辞职当码农](https://mp.weixin.qq.com/s/ckNaSvmKwNzMreQkdfgpvQ). 2022.03.25. 
 
 
+66. [百位学者署名的大模型综述研究被质疑「抄袭」，智源研究院官方发布致歉信](https://mp.weixin.qq.com/s/MbmJPaZYKYNqH1z0zzvsqQ). 2022.04.14.
+
+
+67. [“90后”博士生发Nature造假，怕被调查扔掉实验室万元电脑，结局拖累导师受罚](https://mp.weixin.qq.com/s/XZ0yvB-mjbTW5N0p6iw-uA). 2022.04.21.
+
+
+68. [震惊！北外教授、长江学者何伟，被多位学者举报学术不端](https://www.toutiao.com/article/7089623971444097572/?app=news_article&timestamp=1650704486&use_new_style=1&req_id=202204231701260101510790230B458463&group_id=7089623971444097572&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=4811109f-323b-4335-9a4c-44035a0aafe8&wid=1650706229664). 2022.04.23.
+
+
+69. [湖南师范大学国家重点实验室的早期论文被撤回，因WB图背景重复](https://www.toutiao.com/article/7098604668741354024/?app=news_article&timestamp=1652843172&use_new_style=1&req_id=2022051811061001015801820023017049&group_id=7098604668741354024&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=6f9df539-72c4-49e3-a59a-78411acf384a). 2022.05.17.
+
+
+70. [西南交大29岁博士生曹瑞洲跳楼自杀，年迈母亲校外哭泣20余天](https://mp.weixin.qq.com/s/rLQKm95Er3DDC-B5JhGXLw). 2022.05.20.
+
+
 
 ## 毛主席话语
 1. [毛主席当年的六句话，不断被证明是正确的！](https://mp.weixin.qq.com/s/o6MsSH0QVFX_RLr3rWPn1w). 2017.07.29
@@ -2182,6 +2277,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 14. [痛惜！中科院研究员周传不幸病逝，年仅38岁！](https://mp.weixin.qq.com/s/5cThj6asBXeoRIE8nQZ8og)  2022.02.20. 
+
+
+15. [李三立院士逝世：中国计算机体系结构先驱，曾为国防计算机项目总负责人](https://mp.weixin.qq.com/s/IHR9oLPh5pkis9i2FUrlMg)  2022.04.24. 
 
 
 
